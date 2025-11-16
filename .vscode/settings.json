@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "python",
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSave": true,
+    "python.analysis.extraPaths": [
+        "./notebooks"
+    ]
+}
