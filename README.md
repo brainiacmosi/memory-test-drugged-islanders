@@ -29,7 +29,7 @@ A comprehensive data analysis and machine learning project investigating the eff
 ## Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Memory-Test-Drug-Analysis.git
+git clone https://github.com/brainiacmosi/Memory-Test-Drug-Analysis.git
 
 # Install dependencies
 pip install -r requirements.txt
