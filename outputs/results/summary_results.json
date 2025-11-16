@@ -1,0 +1,10 @@
+{
+  "Overall_Improvement_Rate": 0.5757575757575758,
+  "Total_Subjects": 198,
+  "Subjects_Improved": 114,
+  "Best_Drug_Combination": "Alprazolam - High Dose",
+  "Best_Improvement": 22.6,
+  "ML_Best_Model": "Logistic Regression",
+  "ML_AUC_Score": 0.772,
+  "ML_Accuracy": 0.7
+}

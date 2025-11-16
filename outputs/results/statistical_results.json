@@ -1,0 +1,22 @@
+{
+  "ANOVA_p_value": 1.3592142883028452e-09,
+  "Best_Combinations": {
+    "Alprazolam_High": 22.640909090909087,
+    "Alprazolam_Medium": 5.881818181818182,
+    "Placebo_Low": 2.3863636363636362
+  },
+  "Model_Performance": {
+    "Logistic Regression": {
+      "AUC": 0.7723785166240409,
+      "Accuracy": 0.7
+    },
+    "Random Forest": {
+      "AUC": 0.6368286445012787,
+      "Accuracy": 0.65
+    },
+    "XGBoost": {
+      "AUC": 0.5370843989769821,
+      "Accuracy": 0.625
+    }
+  }
+}
